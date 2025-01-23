@@ -6,16 +6,16 @@ const Header = () => {
       <h1>Bruno S.</h1>
       <div className="social-links">
         <a href="https://github.com/BrunoSNT" target="_blank" rel="noopener noreferrer">
-          <FaGithub /> BrunoSNT
+          GitHub (BrunoSNT)
         </a>
         <a href="https://github.com/Jaxiii" target="_blank" rel="noopener noreferrer">
-          <FaGithub /> Jaxiii
+          GitHub (Jaxiii)
         </a>
         <a href="https://linkedin.com/in/bruno-srb" target="_blank" rel="noopener noreferrer">
-          <FaLinkedin /> LinkedIn
+          LinkedIn
         </a>
         <a href="mailto:brunosrb@protonmail.com">
-          <FaEnvelope /> Email
+          Email
         </a>
       </div>
     </header>
