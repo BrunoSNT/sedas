@@ -1,5 +1,3 @@
-import { FaGithub, FaLinkedin, FaEnvelope } from 'react-icons/fa';
-
 const Header = () => {
   return (
     <header className="header">
